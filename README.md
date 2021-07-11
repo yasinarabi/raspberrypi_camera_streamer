@@ -30,4 +30,4 @@ cd /path/to/cloned/folder
 python3 stream.py
 ```
 
-I am glad to see you are using my code, and thanks you for starring this repository.
+I am glad to see you are using my code, and thank you for starring this repository.
